@@ -8,3 +8,5 @@ Oyun bir fastfood dükkanında geçer ve kartlarda yiyecek ve içeceklerle ilgil
 
 <img width="350" alt="Ekran Resmi 2024-05-26 16 26 44" src="https://github.com/semih838/match.cards.1.1/assets/133615463/016b520e-af4c-44fc-9341-b3ae12ec5bba">
 ![Uploading Ekran Resmi 2024-05-27 10.42.27.png…]()
+ OYUNUN VİDEOSUNA BU LİNKTEN ULAŞABİLİRSİNİZ
+ https://youtu.be/ZLFzgMcGxzI
