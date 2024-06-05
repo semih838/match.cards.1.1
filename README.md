@@ -5,12 +5,13 @@ Oyunun amacı, aynı olan kart çiftlerini bularak tüm kartları eşleştirmekt
 Oyun bir fastfood dükkanında geçer ve kartlarda yiyecek ve içeceklerle ilgilidir.
 Nasıl oynanır
 
-'Başlat' butonuna tıklayarak oyuna başlayın.
+'Başla' butonuna tıklayarak oyuna başlayın.
 Bir kartı ters çevirmek için üzerine tıklayın.
 Eşleşmesini bulmak için başka bir karta tıklayın.
-Kartlar eşleşirse ters çevrilmiş halde kalacaklar. Aksi halde geri döneceklerdir.
+Kartlar eşleşirse eşleşen kartlar eksilecektir. 
 Tüm kartlar eşleştirilene kadar eşleşme bulmaya devam edin.
 Oyunu mümkün olan en kısa sürede tamamlamaya çalışın.
+Oyun 4-12 yaş grubu için basit düzeyde hazırlanmıştır.
 
 
 <img width="350" alt="Ekran Resmi 2024-05-26 16 26 44" src="https://github.com/semih838/match.cards.1.1/assets/133615463/016b520e-af4c-44fc-9341-b3ae12ec5bba">
